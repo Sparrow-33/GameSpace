@@ -1,0 +1,57 @@
+{
+
+   "poste-1": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+   },
+   "poste-2": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-3": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-4": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-5": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-6": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+
+   "poste-7": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-8": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   },
+   "poste-9": {
+      "console": "Xbox",
+      "Ecran": "Dell",
+      "reserve": false
+
+   }
+}
